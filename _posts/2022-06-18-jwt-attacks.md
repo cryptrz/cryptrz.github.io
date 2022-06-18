@@ -37,7 +37,7 @@ Before starting, install the <a href="https://portswigger.net/bappstore/26aaa5de
     
     ![jwt-attacks-1-6](/assets/images/2022-06-18-jwt-attacks/1-6.png)
     
-7. Get the link to the response and paste it in the browser
+7. Get the link to the response and paste it in the web browser
     
     ![jwt-attacks-1-7-1](/assets/images/2022-06-18-jwt-attacks/1-7-1.png)
     
@@ -65,7 +65,7 @@ Before starting, install the <a href="https://portswigger.net/bappstore/26aaa5de
     
     ![jwt-attacks-1-10](/assets/images/2022-06-18-jwt-attacks/1-10.png)
     
-11. Repeat the same step again, from 3 to 7 (except the time, the final response will be a 302 and not a 200), for the “/admin/delete?username=carlos” page
+11. Repeat the same steps again, from 3 to 7 (except the time, the final response will be a 302 and not a 200), for the “/admin/delete?username=carlos” page
     
     ![jwt-attacks-1-11-1](/assets/images/2022-06-18-jwt-attacks/1-11-1.png)
     
