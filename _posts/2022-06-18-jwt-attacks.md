@@ -1,5 +1,7 @@
 ---
 title: Portswigger writeup - JWT Attacks
+categories: [writeup,walkthrough,security]
+tags: [writeup,walkthrough,portswigger,burp,jwt,json,security]
 ---
 
 Since I've created this website, I didn't write a "real" post yet. So, as a first start, I'll talk about the new labs provided by Portswigger's <a href="https://portswigger.net/web-security/dashboard" target="_blank">Web Security Academy</a> few days ago: <a href="https://portswigger.net/web-security/jwt" target="_blank">JWT Attacks</a>). This is also my very first writeup ever, I hope everything will be clear (Let me know in a private message on <a href="https://www.linkedin.com/in/franck-ridel/" target="_blank">Linkedin</a> if you see something wrong, I'll fix it). 
