@@ -24,3 +24,8 @@ order: 5
 * <a href="https://capturetheflag.withgoogle.com/" target="_blank">Google's Capture The Flag</a> (Free)
 * <a href="http://www.xssgame.com/" target="_blank">Google's XSS Game</a> (Free)
 * <a href="https://google-gruyere.appspot.com/" target="_blank">Google Gruyere</a> (Free)
+
+# Non-Profit Organizations
+
+* <a href="https://owasp.org/" target="_blank">OWASP Foundation</a> (Open Web Application Security Project)
+* <a href="https://www.hackingisnotacrime.org/" target="_blank">Hacking Is Not A Crime</a>
