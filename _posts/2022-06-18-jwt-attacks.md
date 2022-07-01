@@ -251,3 +251,97 @@ Before starting, install the <a href="https://portswigger.net/bappstore/26aaa5de
 18. Go back to the browser, the lab is solved 
     
     ![jwt-attacks-3-18](/assets/images/2022-06-18-jwt-attacks/3-18.png)
+
+<br />
+
+<span style="color:red">---------- *update july 1st, 2022* ----------</span>
+
+# Lab 4: JWT authentication bypass via jwk header injection
+
+1. Go to “My account”
+    
+    ![4-1.png](/assets/images/2022-07-01-jwt-attacks/4-1.png)
+    
+2. Enter the credentials “wiener” and “peter”
+    
+    ![4-2.png](/assets/images/2022-07-01-jwt-attacks/4-2.png)
+    
+3. In the HTTP History, find the page “/account” and send it to Repeater
+    
+    ![4-3.png](/assets/images/2022-07-01-jwt-attacks/4-3.png)
+    
+4. Go to the tab JWT Editor Keys on the right side
+    
+    ![4-4.png](/assets/images/2022-07-01-jwt-attacks/4-4.png)
+    
+5. Click on “New RSA Key”
+    
+    ![4-5.png](/assets/images/2022-07-01-jwt-attacks/4-5.png)
+    
+6. Click on “Generate”, the content will appear below, click on “OK”
+    
+    ![4-6.png](/assets/images/2022-07-01-jwt-attacks/4-6.png)
+    
+7. The new RSA key appears in the list
+    
+    ![4-7.png](/assets/images/2022-07-01-jwt-attacks/4-7.png)
+    
+8. Go back to the Repeater, in the JWS section, replace “wiener” with “administrator”, click on “sign” at the bottom window. If you have many keys, select the last one created just before (if you just have one, it’s selected by default) and click on “OK”
+    
+    ![4-8.png](/assets/images/2022-07-01-jwt-attacks/4-8.png)
+    
+9. When it’s done, click on “Attack” and select “Embedded JWK
+    
+    ![4-9.png](/assets/images/2022-07-01-jwt-attacks/4-9.png)
+    
+10. Choose the last key created, if needed and click on “OK”
+    
+    ![4-10.png](/assets/images/2022-07-01-jwt-attacks/4-10.png)
+    
+11. In the Repeater, go back to the “Raw” tab, send the request (the few last steps has modified the JWT token), you’ll see a response with a code 200
+    
+    ![4-11.png](/assets/images/2022-07-01-jwt-attacks/4-11.png)
+    
+12. Generate the link for this response
+    
+    ![4-12.png](/assets/images/2022-07-01-jwt-attacks/4-12.png)
+    
+13. Copy this link
+    
+    ![4-13.png](/assets/images/2022-07-01-jwt-attacks/4-13.png)
+    
+14. Paste it on the web browser, you’re now an administrator. Go to the admin panel
+    
+    ![4-14-1.png](/assets/images/2022-07-01-jwt-attacks/4-14-1.png)
+    
+    ![4-14-2.png](/assets/images/2022-07-01-jwt-attacks/4-14-2.png)
+    
+15. In the HTTP History, find the page “/admin” and send it to the Repeater
+    
+    ![4-15.png](/assets/images/2022-07-01-jwt-attacks/4-15.png)
+    
+16. Replace the token with the same one used for the previous request (For simplicity, you can just copy it directly from the previous request and paste it on this new request), and get a response with a code 200
+    
+    ![4-16.png](/assets/images/2022-07-01-jwt-attacks/4-16.png)
+    
+17. Generate the link to this response and copy it
+    
+    ![4-17-1.png](/assets/images/2022-07-01-jwt-attacks/4-17-1.png)
+    
+    ![4-17-2.png](/assets/images/2022-07-01-jwt-attacks/4-17-2.png)
+    
+18. Paste it in the web browser, and click on the “delete” link for “carlos”
+    
+    ![4-18-1.png](/assets/images/2022-07-01-jwt-attacks/4-18-1.png)
+    
+    ![4-18-2.png](/assets/images/2022-07-01-jwt-attacks/4-18-2.png)
+    
+19. In the HTTP History, find the page “/admin/delete?username=carlos” and repeat the same steps (send to Repeater, paste the same modified token used on steps 11 and 16), you’ll get a code 302
+    
+    ![4-19-1.png](/assets/images/2022-07-01-jwt-attacks/4-19-1.png)
+    
+    ![4-19-2.png](/assets/images/2022-07-01-jwt-attacks/4-19-2.png)
+    
+20. Go back to the web browser, the lab is now solved
+    
+    ![4-19-3.png](/assets/images/2022-07-01-jwt-attacks/4-19-3.png)
