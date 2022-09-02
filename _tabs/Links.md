@@ -28,4 +28,5 @@ order: 5
 # Non-Profit Organizations
 
 * <a href="https://owasp.org/" target="_blank">OWASP Foundation</a> (Open Web Application Security Project)
+* <a href="https://www.mitre.org/" target="_blank">Mitre</a>
 * <a href="https://www.hackingisnotacrime.org/" target="_blank">Hacking Is Not A Crime</a>
