@@ -6,7 +6,7 @@ tags: [writeup,walkthrough,portswigger,burp,login,security,password,offline]
 
 This lab is in the same series than the previous article. The goal here to steal Carlos's "stay-logged-in" cookie to steal and delete his account. 
 
-# ****Lab: Offline password cracking****
+# **Lab: Offline password cracking**
 
 1. Click “My account button”
     
