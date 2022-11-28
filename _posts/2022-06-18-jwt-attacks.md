@@ -112,7 +112,7 @@ Before starting, install the <a href="https://portswigger.net/bappstore/26aaa5de
     
     ![jwt-attacks-2-7](/assets/images/2022-06-18-jwt-attacks/2-7.png)
     
-8. Send the modified request, if successful, the response will be a code 200
+8. Send the modified reset, if successful, the response will be a code 200
     
     ![jwt-attacks-2-8](/assets/images/2022-06-18-jwt-attacks/2-8.png)
     
@@ -202,7 +202,7 @@ Before starting, install the <a href="https://portswigger.net/bappstore/26aaa5de
     
     ![jwt-attacks-3-8](/assets/images/2022-06-18-jwt-attacks/3-8.png)
     
-9. Copy the new token generated on [jwt.io](http://jwt.io), paste it in the Repeater and send the request, you’ll get code 200
+9. Copy the new token generated on [jwt.io](http://jwt.io), paste it in the Repeater and send the reset, you’ll get code 200
     
     ![jwt-attacks-3-9-1](/assets/images/2022-06-18-jwt-attacks/3-9-1.png)
     
@@ -224,7 +224,7 @@ Before starting, install the <a href="https://portswigger.net/bappstore/26aaa5de
     
     ![jwt-attacks-3-12](/assets/images/2022-06-18-jwt-attacks/3-12.png)
     
-13. Repace the JWT token with the one previously generated on [jwt.io](http://jwt.io) and send the request, you’ll get a code 200
+13. Repace the JWT token with the one previously generated on [jwt.io](http://jwt.io) and send the reset, you’ll get a code 200
     
     ![jwt-attacks-3-13](/assets/images/2022-06-18-jwt-attacks/3-13.png)
     
@@ -244,7 +244,7 @@ Before starting, install the <a href="https://portswigger.net/bappstore/26aaa5de
     
     ![jwt-attacks-3-16](/assets/images/2022-06-18-jwt-attacks/3-16.png)
     
-17. Replace the token with the modified previous one (the same previously generated on [jwt.io](http://jwt.io)). Send the request, you’ll get a code 302
+17. Replace the token with the modified previous one (the same previously generated on [jwt.io](http://jwt.io)). Send the reset, you’ll get a code 302
     
     ![jwt-attacks-3-17](/assets/images/2022-06-18-jwt-attacks/3-17.png)
     
@@ -298,7 +298,7 @@ Before starting, install the <a href="https://portswigger.net/bappstore/26aaa5de
     
     ![4-10.png](/assets/images/2022-07-01-jwt-attacks/4-10.png)
     
-11. In the Repeater, go back to the “Raw” tab, send the request (the few last steps has modified the JWT token), you’ll see a response with a code 200
+11. In the Repeater, go back to the “Raw” tab, send the reset (the few last steps has modified the JWT token), you’ll see a response with a code 200
     
     ![4-11.png](/assets/images/2022-07-01-jwt-attacks/4-11.png)
     
@@ -320,7 +320,7 @@ Before starting, install the <a href="https://portswigger.net/bappstore/26aaa5de
     
     ![4-15.png](/assets/images/2022-07-01-jwt-attacks/4-15.png)
     
-16. Replace the token with the same one used for the previous request (For simplicity, you can just copy it directly from the previous request and paste it on this new request), and get a response with a code 200
+16. Replace the token with the same one used for the previous reset (For simplicity, you can just copy it directly from the previous reset and paste it on this new reset), and get a response with a code 200
     
     ![4-16.png](/assets/images/2022-07-01-jwt-attacks/4-16.png)
     

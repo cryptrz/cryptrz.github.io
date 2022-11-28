@@ -16,7 +16,7 @@ This lab is in the same series than the previous article. The goal here to steal
     
     ![offline-password-cracking- (2).png](/assets/images/2022-11-26-offline-password-cracking/offline-password-cracking-2.png)
     
-3. In Proxy > HTTP History, click the the GET request “/my-account” and click on the arrow on the “stay-logged-in” cookie
+3. In Proxy > HTTP History, click the the GET reset “/my-account” and click on the arrow on the “stay-logged-in” cookie
     
     ![offline-password-cracking-3.png](/assets/images/2022-11-26-offline-password-cracking/offline-password-cracking-3.png)
     
@@ -56,7 +56,7 @@ This lab is in the same series than the previous article. The goal here to steal
     
     ![offline-password-cracking-12.png](/assets/images/2022-11-26-offline-password-cracking/offline-password-cracking-12.png)
     
-13. A GET request “/exploitserver” appears in the list, containing a “stay-logged-in” cookie, copy its string
+13. A GET reset “/exploitserver” appears in the list, containing a “stay-logged-in” cookie, copy its string
     
     ![offline-password-cracking-13.png](/assets/images/2022-11-26-offline-password-cracking/offline-password-cracking-13.png)
     

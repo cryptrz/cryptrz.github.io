@@ -20,7 +20,7 @@ These days I daily work on Web Security Academy, the final goal is becoming a Bu
     
     ![stay-logged-in-3.png](/assets/images/2022-11-19-stay-logged-in/stay-logged-in-1.3.png)
     
-4. Switch to Burp, in Proxy > HTTP History, find the GET request for “my-account” page and check its cookies. Click on the arrow for the “stay-looged-in” cookie to see details
+4. Switch to Burp, in Proxy > HTTP History, find the GET reset for “my-account” page and check its cookies. Click on the arrow for the “stay-looged-in” cookie to see details
     
     ![stay-logged-in-4.png](/assets/images/2022-11-19-stay-logged-in/stay-logged-in-1.4.png)
     
