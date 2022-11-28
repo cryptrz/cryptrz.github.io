@@ -6,7 +6,7 @@ tags: [writeup,walkthrough,portswigger,burp,login,security,password,token]
 
 # **Lab: Password reset broken logic**
 
-In this lab, we'll bypass the "Forgot password" feature to get access on Carlos's account.
+In <a href="https://portswigger.net/web-security/authentication/other-mechanisms/lab-password-reset-broken-logic" target="_blank">this lab</a>, we'll bypass the "Forgot password" feature to get access on Carlos's account.
 
 1. On the home page, click “My account
 	

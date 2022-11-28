@@ -4,7 +4,7 @@ categories: [writeup,walkthrough,security]
 tags: [writeup,walkthrough,portswigger,burp,login,security,password,offline]
 ---
 
-This lab is in the same series than the previous article. The goal here to steal Carlos's "stay-logged-in" cookie to steal and delete his account. 
+<a href="https://portswigger.net/web-security/authentication/other-mechanisms/lab-offline-password-cracking" target="_blank">This lab</a> is in the same series than the previous article. The goal here to steal Carlos's "stay-logged-in" cookie to steal and delete his account. 
 
 # **Lab: Offline password cracking**
 
