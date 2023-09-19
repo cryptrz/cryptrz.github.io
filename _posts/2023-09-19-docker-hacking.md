@@ -63,3 +63,5 @@ The <b>git</b> command is already available, on this container. If not available
 ![git](/assets/images/2023-09-19-docker-hacking/git-help.png)
 
 You can now imagine what a malicious attacker can do with all of these, like launching a <a href="https://en.wikipedia.org/wiki/Denial-of-service_attack" target="_blank">DDoS attack</a> executed from this container, <a href="https://en.wikipedia.org/wiki/Nmap" target="_blank">scanning</a> anonymously any sensitive server and coming back later to download results, creating a <a href="https://en.wikipedia.org/wiki/Phishing" target="_blank">phishing attack</a> or <a href="https://en.wikipedia.org/wiki/Clickjacking" target="_blank">clickjacking webpage</a>, etc…
+
+If your Docker containers are remotely accessible, please check the security section in the official documentation and make it secure: <a href="https://docs.docker.com/engine/security/" target="_blank">https://docs.docker.com/engine/security/</a>
