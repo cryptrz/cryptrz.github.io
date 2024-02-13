@@ -8,10 +8,8 @@ order: 5
 
 # **Created by myself** 
 
-## Learning content
+## Learning Content
 
-* OSINT bookmarks (Tutorials and tools): <a href="https://start.me/p/QRQb0O/trouble-fake" target="_blank">Trouble Fake</a>
-* Pentesting bookmarks (Tutorials and tools): <a href="https://start.me/p/vjEPvb/thug-bounty" target="_blank">Thug Bounty</a>
 * eBook about Wordpress security (in french): <a href="https://www.amazon.com/Maintenir-s%C3%A9curiser-blog-sous-Wordpress-ebook/dp/B07B7C7J7H" target="_blank">Maintenir et sécuriser son blog sous Wordpress</a>
 * Presentation about Fedora's containerization: <a href="https://docs.google.com/presentation/d/e/2PACX-1vS3ccFjUQ1S2Hvf5HL6PTRmTN8SRjo8KHc-tcL_DFeRL2FX0PlK2u2nkOaPbQBRGkgQDsyiC9tOrZ91/pub?start=false&loop=false&delayms=3000" target="_blank">Fedora as a pentesting OS</a>
 
