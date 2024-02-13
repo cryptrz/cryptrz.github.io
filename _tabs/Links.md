@@ -10,8 +10,8 @@ order: 5
 
 ## Learning Content
 
-* eBook about Wordpress security (in french): <a href="https://www.amazon.com/Maintenir-s%C3%A9curiser-blog-sous-Wordpress-ebook/dp/B07B7C7J7H" target="_blank">Maintenir et sécuriser son blog sous Wordpress</a>
-* Presentation about Fedora's containerization: <a href="https://docs.google.com/presentation/d/e/2PACX-1vS3ccFjUQ1S2Hvf5HL6PTRmTN8SRjo8KHc-tcL_DFeRL2FX0PlK2u2nkOaPbQBRGkgQDsyiC9tOrZ91/pub?start=false&loop=false&delayms=3000" target="_blank">Fedora as a pentesting OS</a>
+* <a href="https://www.amazon.com/Maintenir-s%C3%A9curiser-blog-sous-Wordpress-ebook/dp/B07B7C7J7H" target="_blank">Maintenir et sécuriser son blog sous Wordpress</a>: eBook about Wordpress security (in french)
+* <a href="https://docs.google.com/presentation/d/e/2PACX-1vS3ccFjUQ1S2Hvf5HL6PTRmTN8SRjo8KHc-tcL_DFeRL2FX0PlK2u2nkOaPbQBRGkgQDsyiC9tOrZ91/pub?start=false&loop=false&delayms=3000" target="_blank">Fedora as a pentesting OS</a>: Presentation about Fedora's containerization for pentesters
 
 ## Gists
 
