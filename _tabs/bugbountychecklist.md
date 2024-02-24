@@ -1,7 +1,7 @@
 ---
 title: Bug Bounty Checklist
 icon: fas fa-info-circle
-order: 7
+order: 10
 ---
 
 ## **Recon on wildcard domain**

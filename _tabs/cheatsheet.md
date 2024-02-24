@@ -1,7 +1,7 @@
 ---
 title: Pentest Cheat Sheet
 icon: fas fa-info-circle
-order: 8
+order: 7
 ---
 
 <style>
