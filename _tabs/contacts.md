@@ -1,7 +1,7 @@
 ---
 title: Contacts
 icon: fas fa-info-circle
-order: 6
+order: 9
 ---
 
 Email: <a href="mailto:fridel@protonmail.com">fridel@protonmail.com</a>
