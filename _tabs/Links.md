@@ -32,7 +32,7 @@ order: 6
 * <a href="https://academy.hackthebox.com/" target="_blank">Hack The Box Academy</a> (From 16$/month)
 * <a href="https://tryhackme.com/" target="_blank">TryHackMe</a> (14$/month, but a lot of free rooms are available)
 * <a href="https://www.root-me.org/" target="_blank">Root Me</a> (Free)
-* <a href="https://owasp.org/www-project-juice-shop/" target="_blank">OWASP Juice Shop</a> (Free) [ <a href"https://demo.owasp-juice.shop/api/Challenges" target="_blank">Demo</a> / <a href"http://preview.owasp-juice.shop/api/Challenges" target="_blank">Preview</a> ]
+* <a href="https://owasp.org/www-project-juice-shop/" target="_blank">OWASP Juice Shop</a> (Free) [ <a href="https://demo.owasp-juice.shop/api/Challenges" target="_blank">Demo</a> / <a href="http://preview.owasp-juice.shop/api/Challenges" target="_blank">Preview</a> ]
 * <a href="https://owasp.org/www-project-webgoat/" target="_blank">OWASP WebGoat</a> (Free)
 * <a href="https://www.vulnhub.com/" target="_blank">VulnHub</a> (Free)
 * <a href="https://labs.hackxpert.com/" target="_blank">Uncle's Rat labs</a> (Free labs made by the youtuber The XSS Rat)
