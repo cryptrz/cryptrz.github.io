@@ -30,6 +30,7 @@ order: 6
 * <a href="https://tryhackme.com/" target="_blank">TryHackMe</a> (14$/month, but a lot of free rooms are available)
 * <a href="https://owasp.org/www-project-juice-shop/" target="_blank">OWASP Juice Shop</a> (F ree) [ <a href="https://demo.owasp-juice.shop/api/Challenges" target="_blank">Demo</a> / <a href="http://preview.owasp-juice.shop/api/Challenges" target="_blank">Preview</a> ]
 * <a href="https://owasp.org/www-project-webgoat/" target="_blank">OWASP WebGoat</a> (Free)
+* <a href="https://owasp.org/www-project-mutillidae-ii/" target="_blank">OWASP Mutillidae II</a> (Free)
 * <a href="https://owasp.org/www-project-security-shepherd/" target="_blank">OWASP Security Shepherd</a> (Free)
 * <a href="https://owasp.org/www-project-damn-vulnerable-web-sockets/" target="_blank">OWASP Damn Vulnerable Web Sockets</a> (Free)
 * <a href="https://www.vulnhub.com/" target="_blank">VulnHub</a> (Free)
