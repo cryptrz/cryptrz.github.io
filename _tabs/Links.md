@@ -34,6 +34,7 @@ order: 6
 * <a href="https://owasp.org/www-project-security-shepherd/" target="_blank">OWASP Security Shepherd</a> (Free)
 * <a href="https://owasp.org/www-project-damn-vulnerable-web-sockets/" target="_blank">OWASP Damn Vulnerable Web Sockets</a> (Free)
 * <a href="https://www.vulnhub.com/" target="_blank">VulnHub</a> (Free)
+* <a href="https://pentest-ground.com/" target="_blank">PentestGround</a> (Free)
 * <a href="https://portswigger.net/web-security/dashboard" target="_blank">Portswigger Web Security Academy</a> (Free)
 * <a href="http://www.itsecgames.com/" target="_blank">bWAPP</a> (Free)
 * <a href="https://docs.rapid7.com/metasploit/metasploitable-2/" target="_blank">Metasploitable 2</a> (Free)
