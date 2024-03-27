@@ -23,7 +23,7 @@ timezone: Europe/Bucharest
 
 title: cryptrz                          # the main title
 
-tagline: Cybersecurity as a lifestyle   # it will display as the sub-title
+tagline: Hacking is poetry   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   Everything about cybersec
