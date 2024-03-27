@@ -15,7 +15,7 @@ jobs:
 
     steps:
       - name: Checkout
-        uses: actions/checkout@main
+        uses: actions/checkout@v3.1.0
         with:
           fetch-depth: 0  # for posts's lastmod
 
@@ -27,7 +27,3 @@ jobs:
 
       - name: Deploy
         run: bash tools/deploy.sh
- 
-      - runs:
-          using: 'node20'
-          main: 'main.js'
