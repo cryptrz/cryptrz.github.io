@@ -27,3 +27,7 @@ jobs:
 
       - name: Deploy
         run: bash tools/deploy.sh
+ 
+      - runs:
+          using: 'node20'
+          main: 'main.js'
