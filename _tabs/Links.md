@@ -25,8 +25,9 @@ order: 6
 ---
 # **Others**
 
-## Learn and practice pentesting for free (or almost)
+## Learn pentesting for free or almost
 
+<<<<<<< HEAD
 * <a href="https://tryhackme.com/" target="_blank">TryHackMe</a> (14$/month, but a lot of free rooms are available)
 * <a href="https://owasp.org/www-project-juice-shop/" target="_blank">OWASP Juice Shop</a> (F ree) [ <a href="https://demo.owasp-juice.shop/api/Challenges" target="_blank">Demo</a> / <a href="http://preview.owasp-juice.shop/api/Challenges" target="_blank">Preview</a> ]
 * <a href="https://owasp.org/www-project-webgoat/" target="_blank">OWASP WebGoat</a> (Free)
@@ -47,12 +48,23 @@ order: 6
 * <a href="https://ctf.hacker101.com/" target="_blank">Hacker101 CTF</a> (Free)
 * <a href="https://capturetheflag.withgoogle.com/" target="_blank">Google's Capture The Flag</a> (Free)
 * <a href="https://www.root-me.org/" target="_blank">Root Me</a> (Free)
+=======
+* <a href="https://www.wechall.net/active_sites" target="_blank">We Chall (Active sites)</a>
+>>>>>>> parent of 15496b5 (Useful links updated)
 * <a href="https://www.hackthebox.com/" target="_blank">Hack The Box</a> (From 14$/month, but a lot of free rooms are available)
 * <a href="https://academy.hackthebox.com/" target="_blank">Hack The Box Academy</a> (From 16$/month)
-
-* <a href="https://www.wechall.net/active_sites" target="_blank">We Chall</a> (List of active sites)
-* <a href="https://ctftime.org/" target="_blank">CTFtime</a> (List of CTF events)
-
+* <a href="https://tryhackme.com/" target="_blank">TryHackMe</a> (14$/month, but a lot of free rooms are available)
+* <a href="https://www.root-me.org/" target="_blank">Root Me</a> (Free)
+* <a href="https://owasp.org/www-project-juice-shop/" target="_blank">OWASP Juice Shop</a> (Free) [ <a href="https://demo.owasp-juice.shop/api/Challenges" target="_blank">Demo</a> / <a href="http://preview.owasp-juice.shop/api/Challenges" target="_blank">Preview</a> ]
+* <a href="https://owasp.org/www-project-webgoat/" target="_blank">OWASP WebGoat</a> (Free)
+* <a href="https://www.vulnhub.com/" target="_blank">VulnHub</a> (Free)
+* <a href="https://labs.hackxpert.com/" target="_blank">Uncle's Rat labs</a> (Free labs made by the youtuber The XSS Rat)
+* <a href="http://www.itsecgames.com/" target="_blank">bWAPP</a> (Free)
+* <a href="https://overthewire.org/wargames/natas/" target="_blank">Natas</a> (Free)
+* <a href="https://redtiger.labs.overthewire.org/" target="_blank">Red Tiger Labs</a> (Free SQL injection labs)
+* <a href="https://capturetheflag.withgoogle.com/" target="_blank">Google's Capture The Flag</a> (Free)
+* <a href="http://www.xssgame.com/" target="_blank">Google's XSS Game</a> (Free)
+* <a href="https://google-gruyere.appspot.com/" target="_blank">Google Gruyere</a> (Free)
 
 ## Non-Profit Organizations
 
