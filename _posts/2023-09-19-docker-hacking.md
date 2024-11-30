@@ -4,6 +4,12 @@ categories: [docker,shodan,security]
 tags: [docker,containers,shodan,security,hacking]
 ---
 
+************************************************************
+************************************************************
+Website NOT active anymore, migrated to https://cryptrz.org/ 
+************************************************************
+************************************************************
+
 Since 2013, <a href="https://www.docker.com" target="_blank">Docker</a> has been a game changer in different IT industries in several ways, it gave both developers and users a lot of flexibility for developping and using many apps and operating systems.
 
 <b>Firstly</b>, Docker containers provide isolation and portability for software applications. By encapsulating an application and its dependencies within a container, developers can ensure consistent behavior across different environments. This eliminates the notorious “works on my machine” problem and streamlines the deployment process.
